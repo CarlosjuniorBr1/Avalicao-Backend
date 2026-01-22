@@ -83,13 +83,13 @@ Resposta
 * Caso a validação falhe, a API retorna HTTP 400 (Bad Request).
 
 ## Como Executar o Projeto
-Pré-requisitos
+### Pré-requisitos
 
-Java 17 instalado
+* Java 17 instalado
 
-Maven instalado
+* Maven instalado
 
-Git instalado
+* Git instalado
 
 ---
 
